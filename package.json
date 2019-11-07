@@ -1,0 +1,18 @@
+{
+  "name": "rockpaperscessor",
+  "version": "1.0.0",
+  "description": "for test",
+  "main": "script.js",
+  "scripts": {
+    "test": "mocha --recursive './test/*.js'"
+  },
+  "author": "muntasir",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  },
+  "devDependencies": {
+    "jsdom": "15.2.0"
+  }
+}
